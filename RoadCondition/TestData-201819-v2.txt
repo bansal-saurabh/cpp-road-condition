@@ -1,0 +1,1001 @@
+Name Identifier Alert/OK Date Time Size Width (1-5) Size Height (1-5) Grid position across x (1-60) Grid position down y (1-100)
+Diamond Di ok 13 Jun 2018 01:44:39 3  44 4
+Triangle Tr alert 22 Feb 2018 12:31:07 3  53 95
+Diamond Di ok 16 Dec 2018 06:05:02 3  7 48
+Triangle Tr ok 03 Jul 2018 23:15:41 3  56 63
+Diamond Di alert 28 Apr 2018 04:28:41 3  42 53
+Triangle Tr alert 27 Feb 2018 10:50:45 1  40 20
+Triangle Tr ok 25 Sep 2018 03:26:51 5  15 43
+Triangle Tr ok 07 Apr 2018 23:08:30 3  24 39
+Triangle Tr ok 11 Jun 2018 12:50:19 3  8 97
+Diamond Di ok 11 Feb 2018 20:08:53 1  22 51
+Diamond Di alert 02 Jul 2018 19:58:36 5  10 98
+Triangle Tr ok 24 Jun 2018 02:56:35 5  33 83
+Diamond Di ok 25 Sep 2018 14:55:02 1  19 80
+Rectangle Re alert 29 Jun 2018 16:24:52 3 3 23 20
+Rectangle Re ok 17 Feb 2018 21:44:40 3 5 8 82
+Rectangle Re ok 14 Dec 2018 21:11:22 3 3 39 65
+Rectangle Re ok 09 Dec 2018 21:25:04 4 5 15 18
+Diamond Di ok 13 Jun 2018 13:03:12 3  18 83
+Rectangle Re alert 28 Jun 2018 05:01:40 5 3 25 13
+Triangle Tr ok 05 Jul 2018 14:42:15 3  14 45
+Triangle Tr ok 22 Apr 2018 06:25:15 5  19 72
+Rectangle Re ok 17 Apr 2018 05:49:15 3 3 51 38
+Diamond Di ok 06 Jul 2018 11:30:41 5  20 78
+Diamond Di ok 29 Dec 2018 21:54:44 3  56 43
+Diamond Di ok 26 Aug 2018 08:43:33 5  17 91
+Rectangle Re ok 24 Sep 2018 16:14:26 2 3 17 38
+Triangle Tr ok 02 Mar 2018 05:29:20 3  37 6
+Triangle Tr ok 10 Sep 2018 02:53:07 1  27 31
+Rectangle Re ok 08 May 2018 01:27:07 5 4 12 60
+Triangle Tr ok 22 Apr 2018 21:19:03 3  7 13
+Diamond Di ok 27 Jun 2018 15:30:52 5  24 10
+Triangle Tr ok 14 Oct 2018 10:56:50 5  28 50
+Diamond Di ok 04 Dec 2018 05:58:31 3  3 77
+Diamond Di ok 19 Jan 2018 05:46:03 3  44 64
+Rectangle Re ok 14 May 2018 18:22:11 3 5 19 31
+Triangle Tr ok 23 Mar 2018 17:42:56 3  53 2
+Rectangle Re ok 05 Feb 2018 15:42:17 5 3 47 38
+Diamond Di alert 25 Feb 2018 15:21:18 3  8 43
+Diamond Di ok 18 Jul 2018 14:27:35 5  60 9
+Triangle Tr ok 10 Jun 2018 12:05:15 3  58 8
+Rectangle Re alert 02 Jul 2018 09:00:58 1 5 11 92
+Triangle Tr ok 26 Nov 2018 19:59:43 5  42 20
+Triangle Tr alert 15 Nov 2018 07:33:26 1  37 76
+Triangle Tr ok 28 May 2018 14:12:42 1  43 71
+Triangle Tr ok 01 Feb 2018 03:45:38 3  46 26
+Rectangle Re alert 11 Nov 2018 15:54:42 1 2 25 82
+Diamond Di ok 23 Mar 2018 22:31:33 3  3 91
+Triangle Tr ok 10 Jul 2018 10:41:17 5  40 43
+Rectangle Re ok 17 Jul 2018 21:44:05 1 5 23 66
+Triangle Tr alert 14 Feb 2018 16:49:24 5  32 71
+Diamond Di ok 06 Sep 2018 00:02:57 3  27 79
+Diamond Di alert 18 Jan 2018 04:18:00 3  3 72
+Rectangle Re ok 15 Jun 2018 17:15:52 5 3 7 13
+Triangle Tr ok 12 Aug 2018 19:28:28 5  44 28
+Rectangle Re ok 24 Jun 2018 09:02:24 2 5 60 29
+Diamond Di alert 02 Jan 2018 10:20:31 5  14 7
+Triangle Tr ok 07 Apr 2018 08:35:26 1  60 53
+Diamond Di alert 03 Dec 2018 05:44:34 5  8 86
+Triangle Tr ok 08 May 2018 08:06:27 5  42 16
+Diamond Di alert 17 Nov 2018 10:11:52 3  29 21
+Triangle Tr alert 27 Mar 2018 03:30:41 3  42 11
+Diamond Di ok 14 Sep 2018 09:02:20 5  6 75
+Triangle Tr ok 07 Jan 2018 08:43:27 1  48 27
+Rectangle Re ok 19 Oct 2018 20:16:40 4 4 50 76
+Diamond Di ok 30 Jan 2018 15:48:10 3  52 35
+Rectangle Re ok 30 Jun 2018 20:10:00 2 5 13 23
+Rectangle Re ok 08 Oct 2018 23:29:37 3 4 17 50
+Diamond Di ok 19 Jul 2018 06:04:33 3  18 26
+Triangle Tr alert 15 Sep 2018 19:26:36 3  56 3
+Triangle Tr ok 13 Dec 2018 07:38:07 3  52 89
+Triangle Tr alert 25 Jul 2018 01:36:40 1  52 24
+Diamond Di alert 06 Mar 2018 23:08:23 5  50 4
+Rectangle Re alert 18 Aug 2018 18:43:25 1 1 43 37
+Rectangle Re alert 25 Feb 2018 03:37:02 2 1 29 9
+Diamond Di ok 03 Feb 2018 05:10:12 5  13 8
+Triangle Tr ok 11 May 2018 09:24:20 3  25 52
+Triangle Tr ok 01 Aug 2018 03:04:08 5  1 28
+Triangle Tr alert 24 Dec 2018 15:21:43 3  30 90
+Rectangle Re ok 12 Sep 2018 18:01:12 4 3 27 25
+Rectangle Re ok 20 Feb 2018 23:34:40 4 4 40 55
+Diamond Di ok 03 Aug 2018 04:22:25 3  23 7
+Diamond Di ok 03 Oct 2018 18:33:39 1  6 9
+Diamond Di ok 20 Jun 2018 03:59:13 3  43 27
+Diamond Di ok 30 Aug 2018 13:58:04 3  50 57
+Diamond Di alert 14 Jan 2018 23:57:30 3  39 50
+Rectangle Re ok 10 Jul 2018 23:21:41 5 3 3 73
+Rectangle Re ok 08 Jan 2018 04:53:25 3 5 28 34
+Diamond Di ok 22 Nov 2018 23:27:56 3  33 90
+Rectangle Re ok 07 Dec 2018 07:31:47 3 4 51 14
+Rectangle Re alert 01 Jul 2018 20:57:13 1 4 3 37
+Rectangle Re ok 28 Jun 2018 20:45:48 2 3 18 7
+Triangle Tr ok 30 Jun 2018 05:07:54 3  60 78
+Triangle Tr ok 19 Jul 2018 21:34:14 5  51 38
+Rectangle Re ok 30 May 2018 17:21:06 4 4 6 27
+Diamond Di ok 13 Mar 2018 15:33:14 3  38 7
+Rectangle Re ok 18 Feb 2018 20:24:42 3 5 57 17
+Diamond Di ok 14 Aug 2018 00:23:04 1  7 63
+Rectangle Re alert 12 Sep 2018 08:58:35 1 4 58 42
+Rectangle Re ok 20 Sep 2018 22:33:20 5 5 41 55
+Diamond Di ok 12 Jun 2018 06:23:20 3  46 5
+Diamond Di ok 25 Nov 2018 13:33:16 1  4 54
+Rectangle Re ok 07 Mar 2018 13:14:41 5 4 19 37
+Rectangle Re ok 04 Apr 2018 03:47:17 5 5 23 1
+Rectangle Re ok 24 May 2018 08:21:38 1 2 27 46
+Rectangle Re ok 27 May 2018 19:51:36 1 1 58 30
+Diamond Di ok 20 Aug 2018 02:25:43 1  30 20
+Rectangle Re ok 15 Oct 2018 13:27:34 5 2 49 46
+Rectangle Re ok 02 Feb 2018 19:06:55 2 3 41 52
+Diamond Di alert 18 Aug 2018 03:34:34 3  10 40
+Triangle Tr ok 29 Aug 2018 05:11:05 1  32 95
+Triangle Tr ok 23 Apr 2018 04:15:49 1  48 39
+Rectangle Re ok 24 May 2018 14:56:38 2 4 41 12
+Diamond Di ok 14 Feb 2018 21:54:25 3  25 12
+Diamond Di ok 01 Jun 2018 02:16:11 3  9 85
+Rectangle Re alert 22 Aug 2018 11:11:36 2 3 48 30
+Triangle Tr ok 15 Dec 2018 10:07:15 3  51 5
+Diamond Di ok 10 Aug 2018 13:16:38 3  21 36
+Rectangle Re ok 22 Jul 2018 13:58:26 3 2 7 53
+Triangle Tr ok 20 May 2018 07:03:22 3  16 98
+Diamond Di ok 19 Jan 2018 10:34:29 3  55 20
+Triangle Tr ok 06 Oct 2018 04:42:24 5  29 54
+Triangle Tr ok 15 Apr 2018 01:56:55 3  54 34
+Diamond Di ok 14 Aug 2018 19:58:26 3  26 44
+Triangle Tr ok 11 Sep 2018 23:04:29 5  37 32
+Triangle Tr ok 08 Apr 2018 20:21:23 1  12 88
+Triangle Tr alert 19 Jul 2018 07:28:05 5  29 95
+Triangle Tr alert 28 Jun 2018 12:10:06 1  54 32
+Triangle Tr ok 27 Jun 2018 18:45:13 5  29 32
+Rectangle Re ok 16 Dec 2018 02:26:10 4 5 23 99
+Rectangle Re ok 03 Nov 2018 15:50:40 5 2 23 18
+Triangle Tr alert 20 May 2018 16:18:26 3  11 52
+Rectangle Re ok 21 Aug 2018 18:28:38 3 5 18 53
+Rectangle Re alert 04 Jun 2018 04:59:04 1 1 18 66
+Triangle Tr alert 02 Aug 2018 06:14:55 3  32 5
+Triangle Tr ok 12 Oct 2018 00:19:00 5  58 27
+Diamond Di ok 06 Aug 2018 06:03:32 5  57 55
+Triangle Tr alert 16 Jun 2018 11:29:55 5  16 99
+Triangle Tr ok 21 Oct 2018 04:07:29 3  35 66
+Triangle Tr ok 08 Jan 2018 22:38:01 5  8 36
+Triangle Tr ok 18 Aug 2018 22:49:22 3  32 95
+Diamond Di ok 06 Apr 2018 08:12:34 3  47 86
+Rectangle Re ok 26 Dec 2018 00:20:59 5 1 39 34
+Diamond Di ok 13 Sep 2018 23:18:18 3  35 89
+Diamond Di ok 26 Sep 2018 20:52:52 5  15 81
+Rectangle Re alert 13 May 2018 05:49:08 4 4 29 80
+Rectangle Re ok 27 Jul 2018 15:04:32 2 3 9 52
+Diamond Di alert 05 Sep 2018 00:22:13 1  46 66
+Diamond Di ok 19 May 2018 05:45:50 5  59 71
+Diamond Di ok 13 Nov 2018 22:19:20 5  35 89
+Rectangle Re ok 17 Aug 2018 23:23:17 1 1 49 24
+Triangle Tr ok 15 Mar 2018 18:56:15 1  57 92
+Diamond Di ok 23 May 2018 18:01:34 1  53 10
+Rectangle Re ok 09 Dec 2018 00:35:53 5 2 26 91
+Triangle Tr ok 18 Mar 2018 23:25:48 5  12 36
+Rectangle Re ok 18 Sep 2018 00:04:46 5 2 44 5
+Rectangle Re ok 30 Mar 2018 00:42:50 2 5 29 95
+Rectangle Re alert 27 Jan 2018 09:12:55 5 1 31 93
+Diamond Di ok 04 Apr 2018 08:43:36 5  47 87
+Rectangle Re alert 27 Aug 2018 10:46:38 5 5 20 47
+Triangle Tr ok 03 Aug 2018 23:58:47 1  56 48
+Triangle Tr ok 22 Dec 2018 13:54:28 1  54 1
+Diamond Di ok 27 Aug 2018 04:19:37 3  25 23
+Rectangle Re ok 09 Jul 2018 16:38:27 1 3 56 4
+Diamond Di ok 20 Dec 2018 19:39:59 3  17 96
+Diamond Di ok 03 Jul 2018 19:28:59 5  26 73
+Triangle Tr ok 29 Jul 2018 23:17:31 3  11 65
+Triangle Tr ok 30 Sep 2018 00:34:39 1  20 75
+Diamond Di ok 16 Jul 2018 08:07:13 1  30 16
+Triangle Tr ok 14 Dec 2018 01:09:56 5  47 99
+Diamond Di ok 14 Oct 2018 01:32:43 1  5 53
+Diamond Di ok 29 Aug 2018 12:10:30 1  46 56
+Rectangle Re ok 16 Mar 2018 09:12:21 5 5 34 33
+Triangle Tr ok 27 Dec 2018 12:48:02 3  23 9
+Triangle Tr ok 07 Sep 2018 23:46:24 3  25 85
+Diamond Di ok 20 Jan 2018 22:54:48 1  14 43
+Triangle Tr ok 23 Apr 2018 16:19:04 3  10 45
+Rectangle Re alert 17 Mar 2018 06:48:04 5 2 41 56
+Triangle Tr ok 26 Jan 2018 19:53:05 3  35 54
+Triangle Tr ok 23 Nov 2018 09:09:14 3  23 88
+Diamond Di alert 31 May 2018 01:57:36 1  30 50
+Triangle Tr ok 30 Dec 2018 21:57:10 3  46 81
+Rectangle Re ok 09 Jun 2018 09:44:32 1 2 36 44
+Diamond Di alert 03 Feb 2018 04:01:12 5  17 54
+Diamond Di ok 18 Apr 2018 11:45:16 5  34 87
+Diamond Di ok 28 Feb 2018 19:07:17 1  47 90
+Diamond Di ok 03 May 2018 04:19:02 5  54 40
+Triangle Tr ok 01 Sep 2018 10:10:20 1  26 18
+Rectangle Re ok 22 Mar 2018 22:09:22 2 4 7 20
+Diamond Di alert 28 Jan 2018 06:28:45 1  50 56
+Diamond Di ok 21 Aug 2018 10:13:59 3  51 64
+Diamond Di ok 28 Dec 2018 02:44:19 3  32 91
+Diamond Di ok 25 Oct 2018 15:42:03 5  6 91
+Triangle Tr ok 29 Apr 2018 03:46:04 1  6 65
+Rectangle Re ok 09 Jun 2018 10:21:35 4 3 13 91
+Rectangle Re alert 15 Jan 2018 12:04:38 5 3 31 100
+Triangle Tr ok 11 Nov 2018 15:44:55 5  21 56
+Rectangle Re ok 13 Mar 2018 16:36:39 3 4 20 74
+Triangle Tr alert 08 Nov 2018 02:15:04 3  42 4
+Rectangle Re ok 26 Jan 2018 17:50:55 5 4 58 68
+Rectangle Re alert 16 Jan 2018 12:55:24 4 3 31 49
+Diamond Di ok 02 Aug 2018 12:02:23 1  49 15
+Diamond Di ok 01 Jan 2018 15:52:49 5  57 47
+Rectangle Re ok 05 Oct 2018 09:50:28 4 4 45 23
+Diamond Di ok 29 Dec 2018 15:16:10 3  16 5
+Diamond Di ok 13 Sep 2018 21:51:59 1  41 16
+Rectangle Re ok 07 Jun 2018 04:49:53 5 3 40 6
+Rectangle Re ok 07 May 2018 17:22:27 2 4 39 40
+Diamond Di ok 28 Jul 2018 20:50:52 1  49 95
+Rectangle Re ok 06 Apr 2018 08:48:22 3 1 55 64
+Rectangle Re ok 02 Mar 2018 10:13:42 1 4 27 20
+Rectangle Re ok 11 Oct 2018 23:43:13 5 4 17 25
+Diamond Di ok 10 Aug 2018 21:30:43 5  16 6
+Triangle Tr ok 10 May 2018 16:02:10 5  59 81
+Rectangle Re ok 23 Jun 2018 17:28:59 4 5 19 63
+Triangle Tr ok 15 Jan 2018 10:15:26 3  57 86
+Rectangle Re ok 19 Oct 2018 01:24:38 5 2 21 46
+Triangle Tr alert 24 Apr 2018 00:08:19 1  5 41
+Triangle Tr ok 27 Jan 2018 00:45:16 5  16 96
+Diamond Di ok 26 Sep 2018 01:59:19 3  24 79
+Triangle Tr ok 12 Mar 2018 19:24:53 3  3 95
+Triangle Tr ok 21 May 2018 20:03:28 3  38 43
+Diamond Di ok 04 Jul 2018 02:21:56 3  47 11
+Rectangle Re ok 01 Dec 2018 12:25:39 3 5 31 25
+Diamond Di ok 09 Feb 2018 06:58:47 5  22 100
+Triangle Tr ok 12 Aug 2018 03:58:09 1  51 71
+Triangle Tr ok 19 Dec 2018 00:54:29 5  17 83
+Diamond Di ok 01 May 2018 20:37:22 1  53 59
+Rectangle Re ok 07 Jan 2018 08:26:16 5 3 10 89
+Diamond Di alert 04 Sep 2018 10:26:26 5  44 8
+Diamond Di ok 25 May 2018 09:02:05 5  2 96
+Diamond Di ok 06 Nov 2018 00:06:27 1  14 37
+Diamond Di alert 12 Jul 2018 08:34:25 5  12 40
+Diamond Di ok 02 Mar 2018 08:06:19 1  46 84
+Triangle Tr ok 01 Jul 2018 15:11:53 1  16 60
+Rectangle Re ok 05 Jun 2018 09:43:22 4 1 43 33
+Triangle Tr ok 28 Sep 2018 13:21:37 5  44 51
+Diamond Di ok 04 Aug 2018 03:52:24 1  11 75
+Rectangle Re ok 28 Sep 2018 01:54:57 3 3 10 27
+Diamond Di alert 21 Jun 2018 12:18:06 3  37 56
+Diamond Di ok 28 Jan 2018 23:07:16 3  11 87
+Diamond Di alert 15 Mar 2018 09:41:20 5  32 73
+Rectangle Re ok 28 Dec 2018 00:52:26 4 1 34 54
+Rectangle Re ok 25 Aug 2018 07:37:22 2 4 18 41
+Triangle Tr ok 27 Feb 2018 06:12:25 1  42 2
+Rectangle Re alert 06 Mar 2018 02:55:42 2 1 14 16
+Triangle Tr alert 23 Oct 2018 08:46:09 3  54 66
+Diamond Di alert 28 Jan 2018 19:30:51 3  11 36
+Triangle Tr ok 19 May 2018 05:07:06 5  9 38
+Diamond Di alert 14 Jun 2018 00:04:54 3  21 35
+Diamond Di alert 14 Aug 2018 02:40:18 3  30 68
+Rectangle Re ok 14 Mar 2018 11:06:35 4 1 6 80
+Triangle Tr ok 06 Dec 2018 15:14:58 3  22 2
+Triangle Tr ok 27 Dec 2018 04:53:31 3  50 63
+Triangle Tr ok 08 Oct 2018 19:07:00 1  55 87
+Diamond Di ok 29 May 2018 01:14:15 1  7 70
+Triangle Tr ok 27 Dec 2018 16:56:23 3  28 35
+Rectangle Re ok 26 Jan 2018 05:26:34 5 2 28 79
+Diamond Di ok 17 Dec 2018 23:57:51 3  39 3
+Triangle Tr ok 24 Apr 2018 23:05:38 3  51 48
+Triangle Tr ok 22 May 2018 22:38:12 1  13 79
+Rectangle Re alert 20 Jul 2018 04:33:55 4 4 24 43
+Rectangle Re ok 02 Jun 2018 11:50:13 1 5 29 94
+Rectangle Re ok 01 Nov 2018 06:55:01 4 1 15 97
+Diamond Di ok 14 Feb 2018 10:50:44 1  59 32
+Triangle Tr ok 02 May 2018 19:58:48 3  59 65
+Rectangle Re ok 20 May 2018 17:58:09 4 3 43 11
+Diamond Di alert 09 Oct 2018 08:09:16 5  37 48
+Diamond Di ok 04 Sep 2018 00:04:35 5  14 41
+Diamond Di ok 27 Mar 2018 23:30:08 3  40 56
+Diamond Di ok 06 Nov 2018 20:01:41 3  8 50
+Diamond Di ok 23 Oct 2018 07:41:05 5  29 97
+Diamond Di ok 01 May 2018 07:02:36 1  54 49
+Rectangle Re ok 08 May 2018 10:00:38 2 1 18 46
+Rectangle Re ok 31 Dec 2018 00:57:06 2 1 46 56
+Rectangle Re ok 15 Jul 2018 01:41:04 1 4 23 58
+Triangle Tr ok 02 Nov 2018 17:09:55 3  28 53
+Diamond Di alert 05 Jul 2018 15:41:33 3  32 70
+Diamond Di ok 28 Aug 2018 18:08:41 1  34 51
+Rectangle Re ok 27 Dec 2018 14:16:15 2 1 13 71
+Rectangle Re ok 06 Jun 2018 18:04:15 4 3 26 18
+Rectangle Re ok 17 Jan 2018 04:46:22 4 4 35 11
+Diamond Di ok 04 Sep 2018 17:49:26 3  39 38
+Rectangle Re ok 18 Sep 2018 00:12:55 5 3 53 33
+Diamond Di alert 03 Oct 2018 22:34:26 3  32 86
+Diamond Di ok 20 Mar 2018 17:01:02 5  31 72
+Rectangle Re alert 07 Dec 2018 06:47:30 2 5 37 12
+Triangle Tr ok 05 Jul 2018 07:13:32 1  60 60
+Triangle Tr ok 26 Jul 2018 22:53:04 1  6 94
+Diamond Di ok 10 Jun 2018 03:13:56 5  2 16
+Rectangle Re alert 27 May 2018 21:19:02 4 5 37 11
+Triangle Tr ok 01 Jan 2018 12:18:13 3  22 28
+Diamond Di ok 14 Feb 2018 23:26:43 1  1 75
+Rectangle Re ok 19 Mar 2018 02:10:12 1 1 37 25
+Rectangle Re ok 28 Dec 2018 19:43:12 4 3 47 29
+Rectangle Re alert 04 Feb 2018 16:02:38 4 4 13 70
+Rectangle Re ok 08 Oct 2018 09:11:17 2 2 22 85
+Diamond Di ok 04 Jul 2018 10:45:47 3  21 86
+Rectangle Re ok 22 Sep 2018 06:20:57 2 3 52 79
+Triangle Tr ok 26 Mar 2018 01:07:06 3  13 79
+Diamond Di ok 06 Jun 2018 01:36:19 5  15 15
+Triangle Tr ok 13 Dec 2018 15:09:56 1  23 67
+Triangle Tr alert 29 Nov 2018 00:57:11 5  49 28
+Diamond Di ok 03 Jan 2018 19:57:52 1  42 37
+Triangle Tr ok 27 Dec 2018 12:25:29 3  46 9
+Diamond Di ok 20 Dec 2018 23:26:38 5  37 42
+Rectangle Re ok 10 May 2018 09:31:39 3 3 58 8
+Rectangle Re alert 29 Jun 2018 23:36:27 2 1 6 94
+Triangle Tr alert 06 May 2018 08:11:52 1  6 44
+Diamond Di alert 01 Feb 2018 13:35:57 1  28 27
+Rectangle Re ok 16 May 2018 19:16:18 3 3 60 18
+Diamond Di ok 23 Dec 2018 04:18:28 3  49 24
+Diamond Di ok 11 Oct 2018 00:50:37 5  12 30
+Diamond Di ok 15 Mar 2018 18:37:24 3  25 48
+Diamond Di ok 20 Jul 2018 22:09:58 5  27 12
+Diamond Di alert 31 Dec 2018 00:40:21 5  5 73
+Rectangle Re ok 04 Feb 2018 04:44:01 3 2 21 7
+Diamond Di ok 03 Mar 2018 14:27:32 3  10 13
+Rectangle Re ok 03 Aug 2018 08:42:33 3 1 32 15
+Rectangle Re ok 14 Apr 2018 21:18:58 2 2 27 67
+Rectangle Re ok 13 Sep 2018 19:00:49 2 2 53 51
+Diamond Di ok 11 May 2018 00:42:58 1  8 5
+Triangle Tr alert 12 Aug 2018 11:52:29 1  57 55
+Triangle Tr ok 18 Feb 2018 13:22:37 1  9 74
+Triangle Tr alert 15 Jul 2018 22:29:10 1  18 64
+Triangle Tr alert 21 Sep 2018 21:25:05 3  13 72
+Rectangle Re ok 03 Sep 2018 10:12:09 3 3 4 86
+Rectangle Re ok 23 May 2018 04:22:53 2 2 25 30
+Rectangle Re ok 18 Jul 2018 09:43:39 1 4 3 28
+Rectangle Re ok 15 May 2018 08:57:14 1 4 52 38
+Diamond Di ok 07 Dec 2018 06:23:03 3  35 25
+Rectangle Re alert 28 Jan 2018 16:06:28 3 1 2 6
+Diamond Di ok 24 Oct 2018 21:26:24 1  26 53
+Rectangle Re ok 25 Aug 2018 11:03:06 3 1 22 84
+Diamond Di alert 12 Oct 2018 07:34:29 1  47 36
+Rectangle Re ok 07 Jun 2018 08:39:32 2 2 1 21
+Diamond Di ok 10 Jan 2018 00:45:40 5  55 49
+Rectangle Re ok 08 Nov 2018 07:58:56 4 1 50 88
+Diamond Di alert 25 May 2018 06:55:04 1  16 20
+Rectangle Re ok 15 Jul 2018 22:38:43 4 2 6 22
+Triangle Tr ok 14 Feb 2018 16:21:34 5  2 64
+Rectangle Re ok 04 Jun 2018 17:04:25 5 3 37 86
+Diamond Di ok 24 Oct 2018 04:05:27 3  56 93
+Triangle Tr ok 07 Mar 2018 21:09:20 5  60 23
+Triangle Tr ok 13 Nov 2018 23:30:57 3  37 46
+Diamond Di ok 25 May 2018 01:55:58 1  39 34
+Rectangle Re ok 21 Nov 2018 09:07:43 4 2 26 9
+Diamond Di ok 17 Jan 2018 01:05:02 1  56 56
+Rectangle Re alert 07 Jan 2018 10:21:05 1 4 21 46
+Triangle Tr ok 15 Feb 2018 19:00:05 1  8 23
+Triangle Tr ok 25 Jun 2018 13:31:25 3  1 6
+Triangle Tr alert 08 Oct 2018 17:11:46 5  45 58
+Rectangle Re ok 14 Nov 2018 02:52:52 3 2 5 29
+Diamond Di alert 08 Feb 2018 10:59:22 5  8 92
+Triangle Tr ok 07 Mar 2018 17:10:45 3  14 3
+Diamond Di ok 30 Aug 2018 15:25:50 3  16 95
+Diamond Di ok 02 Sep 2018 18:55:11 5  48 60
+Diamond Di ok 12 Jun 2018 06:08:37 3  37 94
+Rectangle Re ok 19 Jul 2018 07:56:26 5 1 2 42
+Triangle Tr ok 23 Aug 2018 09:41:17 5  9 22
+Triangle Tr ok 15 Mar 2018 07:33:54 1  12 18
+Diamond Di ok 18 Feb 2018 20:29:38 5  58 69
+Diamond Di ok 08 Dec 2018 11:27:26 5  32 71
+Rectangle Re ok 21 Sep 2018 20:25:53 1 2 49 67
+Triangle Tr ok 25 Sep 2018 22:39:42 3  3 17
+Diamond Di ok 22 Aug 2018 11:53:31 3  8 57
+Triangle Tr ok 08 Jul 2018 10:39:52 1  12 48
+Diamond Di ok 27 Jun 2018 21:48:33 3  44 65
+Rectangle Re ok 05 Dec 2018 17:40:26 3 4 19 72
+Diamond Di ok 02 Jan 2018 01:16:36 1  6 67
+Diamond Di ok 19 Oct 2018 10:55:44 3  53 94
+Rectangle Re ok 18 Sep 2018 08:39:29 2 5 38 86
+Rectangle Re alert 20 Jul 2018 19:44:56 5 1 45 25
+Rectangle Re ok 22 Aug 2018 15:32:54 2 2 4 52
+Triangle Tr ok 25 Jul 2018 01:08:43 5  4 29
+Diamond Di ok 15 Sep 2018 18:41:31 3  58 78
+Triangle Tr ok 08 Aug 2018 06:19:27 1  33 12
+Rectangle Re ok 13 Feb 2018 06:11:20 4 5 8 11
+Diamond Di ok 02 May 2018 17:27:34 3  19 39
+Triangle Tr ok 21 Aug 2018 21:17:13 1  53 41
+Rectangle Re ok 21 Feb 2018 09:48:06 3 1 36 32
+Triangle Tr ok 26 Aug 2018 09:18:49 1  52 4
+Triangle Tr alert 09 Aug 2018 11:06:51 3  42 7
+Triangle Tr ok 04 Sep 2018 15:34:07 3  57 31
+Triangle Tr alert 01 Sep 2018 21:12:53 5  48 75
+Diamond Di ok 19 Jun 2018 19:21:46 3  36 69
+Rectangle Re ok 16 Sep 2018 15:40:28 4 3 34 96
+Diamond Di alert 27 Jan 2018 12:03:30 1  10 13
+Rectangle Re ok 18 Aug 2018 17:56:26 2 4 9 60
+Rectangle Re ok 16 Mar 2018 10:18:06 2 3 58 33
+Rectangle Re alert 25 Oct 2018 15:19:46 1 3 51 46
+Diamond Di ok 21 Mar 2018 11:09:56 5  4 66
+Rectangle Re ok 11 Jul 2018 20:21:52 4 2 11 14
+Rectangle Re ok 23 Jan 2018 09:20:47 1 5 56 8
+Rectangle Re ok 11 Jul 2018 07:20:55 2 4 52 76
+Diamond Di ok 20 Apr 2018 09:24:28 5  59 29
+Triangle Tr ok 22 Jul 2018 06:03:37 3  50 51
+Diamond Di ok 09 Nov 2018 14:29:19 3  10 25
+Diamond Di ok 22 Feb 2018 12:08:26 3  19 79
+Rectangle Re ok 20 Jan 2018 14:08:44 5 3 57 93
+Triangle Tr alert 23 Dec 2018 19:07:14 5  29 50
+Triangle Tr ok 09 Feb 2018 07:10:33 3  49 25
+Triangle Tr ok 17 May 2018 05:10:59 3  59 90
+Diamond Di ok 09 Jul 2018 17:07:05 3  24 56
+Triangle Tr ok 06 Jun 2018 15:14:38 3  3 86
+Diamond Di ok 30 May 2018 21:05:26 1  23 61
+Triangle Tr alert 19 Aug 2018 01:00:58 1  34 10
+Rectangle Re alert 13 Aug 2018 02:59:57 4 4 13 97
+Rectangle Re ok 11 Feb 2018 13:21:07 4 2 28 16
+Diamond Di ok 10 Jul 2018 20:04:42 1  44 99
+Triangle Tr alert 30 May 2018 16:58:50 5  5 5
+Diamond Di alert 21 Jan 2018 23:07:39 5  53 24
+Diamond Di ok 07 Feb 2018 09:07:19 3  50 8
+Triangle Tr alert 13 Feb 2018 05:17:28 3  35 17
+Diamond Di ok 15 Dec 2018 01:59:25 5  32 66
+Rectangle Re alert 02 Aug 2018 17:09:23 5 2 17 71
+Diamond Di ok 27 Mar 2018 12:01:54 1  34 42
+Rectangle Re ok 04 May 2018 21:22:25 4 4 58 62
+Rectangle Re ok 16 Jun 2018 22:29:41 2 2 24 69
+Diamond Di ok 28 Jul 2018 01:23:45 5  26 57
+Triangle Tr ok 03 May 2018 16:51:19 3  50 2
+Rectangle Re ok 02 Jan 2018 14:22:46 2 1 60 63
+Diamond Di alert 04 May 2018 19:44:28 1  13 54
+Triangle Tr ok 08 May 2018 09:39:44 5  47 85
+Rectangle Re ok 18 Sep 2018 12:18:25 3 3 12 92
+Triangle Tr ok 09 Feb 2018 21:26:50 3  56 90
+Triangle Tr alert 27 Dec 2018 06:45:47 1  23 89
+Triangle Tr ok 20 Feb 2018 14:21:31 5  52 35
+Rectangle Re ok 05 Nov 2018 17:11:55 2 1 32 12
+Triangle Tr ok 07 Mar 2018 02:54:36 1  56 1
+Rectangle Re ok 25 Aug 2018 18:32:42 1 2 51 67
+Diamond Di ok 08 Mar 2018 19:47:16 1  51 88
+Rectangle Re alert 03 Dec 2018 01:56:29 2 4 15 64
+Rectangle Re ok 12 Sep 2018 01:48:11 2 1 22 74
+Rectangle Re ok 06 Mar 2018 11:50:00 2 1 41 67
+Rectangle Re alert 07 Feb 2018 05:01:42 5 3 11 79
+Triangle Tr alert 16 Oct 2018 16:24:46 3  24 5
+Diamond Di ok 13 Dec 2018 00:16:51 3  42 2
+Triangle Tr ok 11 Oct 2018 06:29:58 1  59 60
+Rectangle Re ok 22 Nov 2018 06:55:14 2 3 15 56
+Diamond Di ok 12 Oct 2018 21:33:31 3  57 76
+Rectangle Re ok 15 Nov 2018 10:43:06 3 3 54 61
+Rectangle Re ok 27 Jul 2018 02:25:31 3 2 59 13
+Rectangle Re ok 23 Feb 2018 05:22:46 2 3 27 86
+Rectangle Re ok 13 Aug 2018 16:55:45 5 5 34 40
+Rectangle Re ok 08 Feb 2018 12:00:48 4 5 11 63
+Triangle Tr ok 12 Sep 2018 11:20:38 1  51 5
+Diamond Di ok 03 Feb 2018 16:06:36 3  60 64
+Triangle Tr ok 17 Nov 2018 13:31:11 3  31 82
+Diamond Di ok 15 Sep 2018 05:23:56 1  1 53
+Diamond Di alert 24 Sep 2018 06:31:15 3  44 29
+Rectangle Re ok 28 Mar 2018 21:06:57 1 5 28 6
+Rectangle Re ok 29 Dec 2018 07:34:25 1 3 59 82
+Diamond Di ok 30 May 2018 10:41:27 5  45 13
+Triangle Tr alert 18 Dec 2018 20:33:36 5  22 9
+Triangle Tr ok 28 Nov 2018 23:10:24 5  47 14
+Diamond Di ok 04 Jul 2018 21:33:54 3  20 54
+Diamond Di ok 14 Dec 2018 23:34:36 1  36 12
+Triangle Tr ok 16 Jun 2018 11:28:42 3  12 46
+Triangle Tr ok 02 Dec 2018 01:05:22 1  20 45
+Rectangle Re alert 29 Oct 2018 00:51:16 1 4 34 98
+Diamond Di alert 01 Aug 2018 11:15:00 3  26 51
+Rectangle Re ok 15 Sep 2018 18:04:56 3 5 30 17
+Diamond Di alert 11 Jun 2018 20:04:15 1  47 5
+Triangle Tr ok 24 May 2018 17:52:13 1  41 22
+Triangle Tr ok 10 Sep 2018 22:24:52 1  59 26
+Triangle Tr ok 14 Mar 2018 14:39:17 3  39 3
+Diamond Di ok 12 Jun 2018 06:43:59 3  5 96
+Triangle Tr ok 06 Dec 2018 05:57:34 5  2 56
+Rectangle Re alert 12 Aug 2018 05:43:07 5 5 4 88
+Triangle Tr ok 11 Feb 2018 14:24:06 3  3 52
+Rectangle Re alert 06 Jan 2018 03:33:56 2 1 48 54
+Triangle Tr ok 29 Nov 2018 07:12:10 3  48 74
+Diamond Di ok 15 Jan 2018 06:10:41 3  38 91
+Triangle Tr ok 15 Feb 2018 22:16:42 1  2 23
+Rectangle Re ok 14 May 2018 16:57:11 1 2 7 72
+Diamond Di ok 01 Aug 2018 14:01:25 5  24 39
+Rectangle Re ok 22 Jul 2018 07:47:41 5 4 28 51
+Triangle Tr ok 13 May 2018 01:07:52 1  52 77
+Diamond Di ok 12 Sep 2018 20:05:24 5  34 59
+Rectangle Re ok 22 Apr 2018 10:54:46 3 5 36 77
+Diamond Di alert 24 Jun 2018 08:50:30 1  37 95
+Diamond Di ok 01 Aug 2018 20:13:55 1  30 36
+Diamond Di ok 19 Mar 2018 03:23:03 3  32 63
+Triangle Tr ok 05 Jul 2018 16:37:17 3  25 15
+Diamond Di ok 04 Apr 2018 16:21:19 1  35 50
+Rectangle Re ok 04 Sep 2018 23:18:33 4 5 35 67
+Rectangle Re ok 10 Jan 2018 05:58:14 5 4 44 79
+Triangle Tr ok 01 Feb 2018 11:40:43 5  17 6
+Rectangle Re ok 21 Feb 2018 01:44:33 1 1 50 32
+Triangle Tr alert 02 Jul 2018 11:51:38 5  44 49
+Triangle Tr ok 18 Jan 2018 21:49:22 1  29 33
+Diamond Di ok 03 Sep 2018 11:06:52 1  21 24
+Diamond Di ok 31 Dec 2018 04:04:53 5  48 47
+Triangle Tr alert 10 Jan 2018 23:56:10 1  45 100
+Diamond Di ok 15 Apr 2018 03:41:46 3  45 88
+Rectangle Re ok 06 Aug 2018 14:51:40 3 3 43 99
+Rectangle Re ok 15 Jun 2018 10:31:14 1 4 11 90
+Triangle Tr ok 25 Sep 2018 14:53:10 3  19 40
+Triangle Tr alert 07 May 2018 19:40:25 1  29 98
+Triangle Tr ok 01 Mar 2018 11:55:28 5  50 37
+Rectangle Re ok 07 May 2018 20:27:35 3 3 37 63
+Diamond Di ok 23 Dec 2018 16:18:51 5  60 57
+Triangle Tr ok 03 Oct 2018 11:43:20 3  45 50
+Triangle Tr ok 24 Dec 2018 15:26:13 5  42 35
+Triangle Tr ok 09 Jun 2018 20:52:18 3  27 49
+Triangle Tr ok 25 May 2018 19:16:21 5  18 56
+Rectangle Re ok 04 Jun 2018 10:37:15 1 1 17 34
+Rectangle Re ok 09 Dec 2018 19:59:19 4 2 55 34
+Diamond Di ok 05 Jul 2018 12:42:34 5  30 95
+Rectangle Re ok 29 Sep 2018 07:20:16 5 4 33 18
+Diamond Di ok 03 Jul 2018 06:19:15 3  53 26
+Rectangle Re ok 23 Aug 2018 02:37:18 5 2 41 62
+Rectangle Re ok 31 Aug 2018 04:31:46 1 1 37 75
+Triangle Tr ok 11 Apr 2018 04:56:09 5  48 87
+Triangle Tr ok 10 Sep 2018 00:17:24 5  56 80
+Rectangle Re alert 25 Nov 2018 20:10:17 1 3 58 28
+Rectangle Re ok 15 Jan 2018 15:22:47 4 5 54 50
+Triangle Tr alert 23 Jun 2018 00:36:29 3  57 79
+Diamond Di alert 15 Feb 2018 11:28:18 3  16 61
+Diamond Di ok 04 Sep 2018 02:48:39 1  20 3
+Triangle Tr ok 02 Dec 2018 19:09:28 5  48 34
+Triangle Tr ok 08 Apr 2018 17:42:39 3  10 36
+Rectangle Re ok 01 Mar 2018 15:24:07 1 5 32 92
+Rectangle Re ok 14 Jun 2018 17:21:12 2 2 35 45
+Triangle Tr alert 28 Oct 2018 02:18:40 3  52 49
+Diamond Di ok 12 Dec 2018 00:28:21 1  59 100
+Diamond Di alert 12 Jan 2018 19:43:43 1  16 91
+Diamond Di ok 26 Jan 2018 14:05:19 1  42 92
+Triangle Tr alert 01 Mar 2018 19:47:16 3  51 79
+Diamond Di ok 18 Jan 2018 15:47:03 1  16 47
+Diamond Di ok 03 Jan 2018 14:59:36 3  36 73
+Rectangle Re ok 23 May 2018 01:48:17 2 4 19 65
+Diamond Di ok 31 May 2018 17:54:46 5  48 23
+Rectangle Re ok 08 Mar 2018 09:53:43 3 1 47 8
+Rectangle Re ok 03 Apr 2018 23:28:18 3 1 18 92
+Rectangle Re ok 17 Jul 2018 19:17:53 2 2 28 88
+Rectangle Re ok 26 Sep 2018 20:55:03 3 3 24 11
+Rectangle Re ok 04 May 2018 21:29:38 3 4 2 95
+Diamond Di ok 28 Nov 2018 03:03:14 5  27 20
+Triangle Tr ok 05 Mar 2018 22:39:57 1  42 34
+Diamond Di alert 30 Aug 2018 12:58:00 5  47 43
+Rectangle Re ok 29 Jan 2018 11:52:10 3 1 43 19
+Rectangle Re ok 24 Sep 2018 13:07:41 2 1 47 23
+Diamond Di ok 25 Dec 2018 17:35:45 1  42 70
+Rectangle Re ok 06 May 2018 14:18:10 5 1 32 94
+Rectangle Re ok 25 May 2018 03:12:12 2 2 34 19
+Triangle Tr alert 16 Jul 2018 00:43:41 1  31 66
+Triangle Tr alert 21 Jun 2018 20:26:12 3  2 8
+Diamond Di ok 18 Nov 2018 16:10:05 5  43 15
+Rectangle Re alert 19 Dec 2018 14:08:22 1 3 28 77
+Triangle Tr alert 21 Sep 2018 00:35:20 1  37 12
+Triangle Tr ok 14 Jan 2018 00:49:50 3  35 83
+Rectangle Re alert 03 Dec 2018 11:29:35 5 3 6 26
+Diamond Di ok 13 Jun 2018 23:01:19 5  29 53
+Triangle Tr ok 03 Sep 2018 17:48:06 1  18 49
+Rectangle Re ok 23 Sep 2018 13:16:31 2 2 54 60
+Rectangle Re ok 10 Jan 2018 13:41:19 1 3 11 73
+Rectangle Re ok 13 Jun 2018 08:11:54 4 1 9 73
+Diamond Di ok 25 Jun 2018 14:08:41 3  8 2
+Rectangle Re ok 28 Jul 2018 12:02:16 1 3 38 2
+Triangle Tr ok 28 May 2018 00:09:45 5  44 59
+Diamond Di ok 23 Apr 2018 15:48:40 5  48 14
+Diamond Di ok 09 Jan 2018 16:30:43 1  43 23
+Diamond Di ok 24 Nov 2018 22:53:43 3  7 54
+Rectangle Re ok 30 Sep 2018 21:57:25 3 2 5 56
+Rectangle Re ok 10 Jan 2018 01:38:25 5 2 31 34
+Diamond Di alert 29 Apr 2018 07:25:21 3  57 50
+Triangle Tr ok 04 Nov 2018 23:20:09 3  20 83
+Rectangle Re ok 09 Feb 2018 22:36:11 5 3 28 92
+Triangle Tr ok 04 Sep 2018 13:14:32 1  52 59
+Triangle Tr ok 14 Apr 2018 17:35:06 5  60 81
+Triangle Tr ok 14 Nov 2018 08:08:21 3  7 84
+Triangle Tr ok 05 Aug 2018 12:45:17 3  8 88
+Triangle Tr ok 26 Jul 2018 15:32:13 1  41 29
+Triangle Tr ok 17 Jun 2018 04:55:22 1  52 92
+Triangle Tr alert 14 Oct 2018 09:00:30 3  31 27
+Rectangle Re ok 29 Dec 2018 23:45:39 5 2 43 75
+Diamond Di ok 06 Apr 2018 07:27:31 5  4 95
+Rectangle Re ok 09 Aug 2018 22:16:40 2 2 37 42
+Diamond Di ok 21 Apr 2018 05:27:22 3  15 65
+Triangle Tr ok 27 Apr 2018 06:49:12 1  13 75
+Diamond Di ok 12 May 2018 23:37:41 3  27 3
+Diamond Di alert 05 Feb 2018 02:01:42 3  31 83
+Triangle Tr ok 07 Nov 2018 16:24:05 1  37 60
+Triangle Tr ok 08 Aug 2018 11:03:59 5  49 3
+Diamond Di ok 25 Aug 2018 02:36:49 1  54 45
+Diamond Di ok 16 Nov 2018 14:06:17 1  2 36
+Diamond Di ok 25 Feb 2018 08:37:16 5  15 55
+Rectangle Re ok 19 Oct 2018 18:58:30 3 4 1 78
+Rectangle Re ok 15 Apr 2018 12:22:13 2 5 57 70
+Triangle Tr ok 29 Dec 2018 22:35:01 3  47 5
+Triangle Tr ok 04 Sep 2018 07:36:46 5  26 23
+Rectangle Re ok 11 Jun 2018 01:09:19 4 4 40 41
+Triangle Tr ok 16 Nov 2018 03:43:07 3  19 73
+Diamond Di ok 07 Sep 2018 16:08:38 5  41 66
+Triangle Tr ok 16 May 2018 13:15:33 3  7 6
+Diamond Di alert 05 May 2018 00:09:20 3  27 27
+Rectangle Re ok 29 Aug 2018 00:40:35 1 4 47 9
+Rectangle Re ok 02 Aug 2018 07:11:35 4 5 55 58
+Diamond Di ok 26 Dec 2018 13:48:33 3  52 87
+Triangle Tr ok 15 Aug 2018 00:53:12 1  45 72
+Diamond Di ok 25 Dec 2018 12:24:46 3  12 19
+Triangle Tr ok 17 Nov 2018 17:45:14 5  52 13
+Diamond Di ok 09 Feb 2018 16:40:52 1  24 43
+Diamond Di ok 10 Sep 2018 11:30:54 5  60 32
+Triangle Tr alert 29 Aug 2018 06:50:10 5  30 31
+Triangle Tr alert 30 Dec 2018 02:09:25 5  55 72
+Triangle Tr alert 18 May 2018 12:36:39 3  32 3
+Triangle Tr alert 30 Mar 2018 10:37:39 1  9 62
+Triangle Tr ok 20 Dec 2018 20:51:11 5  43 90
+Triangle Tr ok 05 Apr 2018 20:14:12 3  13 10
+Triangle Tr ok 19 Feb 2018 13:11:05 3  26 84
+Triangle Tr ok 11 Apr 2018 19:24:19 1  44 50
+Rectangle Re ok 05 Sep 2018 20:46:55 4 5 3 93
+Triangle Tr ok 13 Feb 2018 03:30:55 1  38 75
+Rectangle Re alert 30 Aug 2018 00:55:01 3 4 46 57
+Rectangle Re ok 18 Jul 2018 22:31:40 3 1 58 24
+Triangle Tr alert 10 Feb 2018 08:41:38 3  44 63
+Triangle Tr ok 05 May 2018 10:18:19 5  55 45
+Rectangle Re ok 12 May 2018 07:12:04 2 4 56 24
+Rectangle Re ok 05 Feb 2018 07:03:27 4 1 30 19
+Diamond Di ok 31 Mar 2018 19:59:18 5  50 54
+Rectangle Re ok 04 Aug 2018 08:00:12 3 4 41 19
+Diamond Di ok 01 Dec 2018 00:25:46 1  21 17
+Rectangle Re ok 21 Dec 2018 07:22:32 3 5 12 54
+Triangle Tr ok 30 Jun 2018 15:54:57 3  34 38
+Triangle Tr ok 04 Jun 2018 12:24:19 1  60 18
+Rectangle Re alert 16 Feb 2018 03:06:39 3 1 18 56
+Diamond Di ok 29 Oct 2018 00:30:44 1  40 66
+Diamond Di ok 31 Jul 2018 23:09:16 3  23 51
+Diamond Di ok 02 May 2018 21:28:18 1  58 6
+Triangle Tr ok 05 May 2018 12:21:49 5  6 45
+Diamond Di ok 17 Dec 2018 01:33:44 1  44 19
+Diamond Di ok 01 Jul 2018 00:11:46 3  54 7
+Diamond Di ok 12 Oct 2018 03:32:20 1  17 8
+Rectangle Re alert 18 Dec 2018 06:08:20 2 2 20 31
+Diamond Di ok 26 Dec 2018 14:22:09 3  25 3
+Rectangle Re alert 13 Jul 2018 11:21:27 2 3 2 33
+Rectangle Re ok 10 Aug 2018 20:52:42 1 3 30 70
+Triangle Tr alert 03 Apr 2018 09:43:00 5  58 58
+Rectangle Re ok 24 Jul 2018 20:31:47 4 5 18 14
+Triangle Tr ok 03 Aug 2018 09:53:57 1  32 86
+Diamond Di alert 14 Jan 2018 22:13:22 1  57 53
+Diamond Di ok 12 Apr 2018 15:13:48 3  36 6
+Diamond Di ok 21 Nov 2018 03:02:30 5  30 33
+Triangle Tr ok 29 Sep 2018 11:22:01 3  36 90
+Rectangle Re alert 03 Jun 2018 03:48:40 2 5 25 18
+Triangle Tr alert 29 Aug 2018 03:46:56 3  6 88
+Rectangle Re ok 24 Nov 2018 22:48:57 4 2 3 77
+Diamond Di ok 20 Aug 2018 23:49:58 3  22 2
+Diamond Di ok 04 Apr 2018 12:51:37 5  52 83
+Rectangle Re ok 15 Jul 2018 09:05:50 1 5 57 74
+Diamond Di ok 28 Apr 2018 18:35:05 1  19 54
+Rectangle Re ok 15 Jul 2018 14:15:53 4 1 40 53
+Rectangle Re ok 06 Oct 2018 04:09:42 4 1 4 29
+Diamond Di ok 10 Mar 2018 21:02:03 3  3 58
+Rectangle Re ok 22 Jan 2018 09:52:05 1 4 22 74
+Triangle Tr alert 27 Jul 2018 23:33:30 3  36 70
+Rectangle Re ok 25 Jul 2018 02:46:11 1 4 47 51
+Diamond Di ok 25 Aug 2018 21:31:34 3  40 5
+Diamond Di ok 03 Feb 2018 06:06:55 5  34 61
+Diamond Di ok 24 Nov 2018 05:41:36 3  9 31
+Triangle Tr ok 09 May 2018 00:50:41 3  30 45
+Diamond Di ok 02 Mar 2018 17:32:15 1  30 56
+Rectangle Re ok 08 Nov 2018 09:34:04 3 3 3 65
+Triangle Tr ok 20 Jul 2018 08:21:58 5  38 69
+Triangle Tr ok 24 Mar 2018 04:24:35 3  5 63
+Triangle Tr ok 28 May 2018 16:39:56 3  19 11
+Triangle Tr ok 30 Oct 2018 04:35:43 1  53 31
+Triangle Tr ok 07 Apr 2018 23:00:14 1  18 53
+Diamond Di ok 03 Dec 2018 11:26:31 5  29 13
+Diamond Di alert 25 Jun 2018 10:45:06 3  49 62
+Diamond Di alert 13 Nov 2018 06:55:06 1  15 21
+Rectangle Re ok 18 Mar 2018 13:08:07 1 4 40 29
+Triangle Tr ok 29 Jul 2018 21:44:31 5  21 97
+Rectangle Re ok 31 Dec 2018 15:13:32 2 5 49 99
+Triangle Tr ok 17 Apr 2018 22:44:55 1  22 81
+Triangle Tr ok 07 Sep 2018 01:25:33 5  39 36
+Rectangle Re ok 28 Oct 2018 06:33:48 3 5 37 70
+Rectangle Re ok 21 Oct 2018 16:12:55 2 5 10 39
+Triangle Tr ok 13 Feb 2018 18:32:50 3  3 62
+Triangle Tr ok 04 Dec 2018 20:15:26 1  27 31
+Diamond Di ok 21 Sep 2018 11:37:31 5  18 30
+Diamond Di alert 07 Jul 2018 08:28:18 3  36 6
+Triangle Tr ok 13 Aug 2018 19:18:18 3  55 67
+Rectangle Re alert 24 Nov 2018 08:37:16 2 3 30 51
+Rectangle Re ok 16 May 2018 23:56:59 5 1 7 49
+Rectangle Re ok 03 Apr 2018 05:07:29 5 1 23 87
+Diamond Di ok 05 Apr 2018 21:38:57 3  58 2
+Rectangle Re ok 24 Nov 2018 05:21:19 3 4 30 72
+Triangle Tr alert 27 Apr 2018 09:36:10 3  41 90
+Triangle Tr ok 19 Dec 2018 19:10:49 1  23 91
+Diamond Di ok 27 Aug 2018 22:13:27 5  28 75
+Diamond Di alert 13 Oct 2018 15:15:42 1  46 75
+Triangle Tr ok 09 Oct 2018 13:42:54 3  20 62
+Rectangle Re ok 02 Oct 2018 07:13:32 5 5 10 13
+Rectangle Re ok 05 Sep 2018 19:09:12 5 2 52 38
+Triangle Tr ok 07 Mar 2018 06:23:18 3  58 12
+Triangle Tr ok 12 Jul 2018 00:28:19 3  56 74
+Diamond Di ok 16 Jul 2018 08:20:14 3  36 30
+Diamond Di alert 08 Jun 2018 11:55:37 5  56 64
+Diamond Di ok 23 Jul 2018 14:40:21 3  27 41
+Rectangle Re ok 22 Dec 2018 02:38:02 4 3 56 67
+Triangle Tr alert 12 Feb 2018 06:43:09 5  60 66
+Rectangle Re ok 04 Sep 2018 21:54:59 2 2 60 67
+Diamond Di ok 22 Jun 2018 17:16:46 3  47 47
+Triangle Tr ok 27 Nov 2018 05:23:49 1  33 8
+Triangle Tr ok 20 Feb 2018 21:36:07 3  33 16
+Triangle Tr alert 08 Nov 2018 13:44:27 1  27 29
+Triangle Tr alert 02 Jun 2018 01:27:19 5  26 72
+Rectangle Re ok 21 Aug 2018 09:52:04 2 5 25 46
+Triangle Tr ok 27 Jul 2018 12:30:16 1  19 52
+Rectangle Re alert 30 Jul 2018 02:52:37 2 5 43 87
+Rectangle Re ok 29 Apr 2018 03:10:53 2 5 34 56
+Triangle Tr alert 22 Mar 2018 05:52:37 3  27 40
+Triangle Tr ok 24 Nov 2018 02:40:03 5  45 31
+Diamond Di ok 10 May 2018 23:44:12 3  39 92
+Rectangle Re alert 16 Nov 2018 00:50:06 2 5 15 62
+Rectangle Re ok 12 Feb 2018 09:03:26 3 4 12 85
+Diamond Di ok 29 Jul 2018 19:30:33 3  21 65
+Triangle Tr ok 07 Aug 2018 04:02:06 5  18 67
+Rectangle Re alert 27 Jun 2018 11:00:00 2 1 30 72
+Rectangle Re ok 12 Nov 2018 01:51:22 2 1 13 43
+Triangle Tr ok 18 Aug 2018 01:40:47 3  28 46
+Diamond Di alert 13 Apr 2018 06:40:03 1  3 82
+Triangle Tr ok 20 Dec 2018 05:56:53 3  20 23
+Diamond Di ok 24 Apr 2018 14:57:14 5  26 73
+Triangle Tr ok 08 Apr 2018 15:33:27 3  48 68
+Diamond Di alert 30 Jul 2018 06:09:30 3  30 6
+Diamond Di ok 04 Jan 2018 12:01:21 3  39 11
+Triangle Tr ok 06 Nov 2018 11:17:44 3  29 16
+Rectangle Re ok 28 Apr 2018 15:00:53 5 4 37 36
+Diamond Di ok 07 Nov 2018 06:48:59 5  31 90
+Diamond Di ok 07 Jun 2018 02:24:20 3  27 22
+Triangle Tr ok 25 Jun 2018 18:13:40 1  56 66
+Diamond Di alert 23 Jan 2018 21:48:09 3  18 93
+Triangle Tr ok 06 Jun 2018 13:08:25 5  5 1
+Rectangle Re ok 06 Dec 2018 11:37:49 4 4 42 7
+Triangle Tr ok 05 Jun 2018 23:01:53 3  60 93
+Triangle Tr ok 12 Mar 2018 07:10:08 3  36 31
+Rectangle Re alert 04 Dec 2018 15:05:07 1 1 14 11
+Rectangle Re ok 15 Aug 2018 22:49:03 5 3 27 85
+Diamond Di ok 02 Nov 2018 01:25:35 5  12 84
+Triangle Tr ok 21 Feb 2018 20:50:51 3  60 75
+Diamond Di ok 14 Jul 2018 13:21:55 1  53 66
+Rectangle Re ok 19 Sep 2018 01:21:53 5 5 45 32
+Diamond Di ok 15 Jul 2018 03:17:50 5  47 3
+Diamond Di ok 25 Dec 2018 18:22:20 3  11 29
+Triangle Tr alert 13 Jun 2018 08:17:29 3  36 91
+Triangle Tr ok 19 Oct 2018 05:33:10 1  32 45
+Triangle Tr ok 28 Jul 2018 13:48:50 3  42 85
+Rectangle Re ok 24 Nov 2018 13:12:23 2 1 16 15
+Triangle Tr ok 10 Nov 2018 20:26:37 5  32 81
+Rectangle Re alert 28 Apr 2018 19:34:05 4 5 38 16
+Diamond Di ok 12 Aug 2018 10:45:41 5  39 84
+Diamond Di alert 25 Sep 2018 18:16:51 1  23 98
+Triangle Tr ok 25 Jan 2018 17:48:05 1  15 33
+Diamond Di ok 02 Sep 2018 01:16:31 1  46 29
+Triangle Tr ok 04 Oct 2018 12:36:26 3  50 5
+Rectangle Re ok 26 Dec 2018 03:38:13 4 3 39 64
+Diamond Di alert 03 Aug 2018 23:58:10 1  27 29
+Rectangle Re ok 07 May 2018 18:01:23 2 3 39 82
+Diamond Di alert 29 Jul 2018 12:00:47 3  51 55
+Diamond Di ok 02 Dec 2018 13:35:35 3  23 2
+Triangle Tr ok 02 Aug 2018 01:57:48 5  59 7
+Triangle Tr ok 02 Jun 2018 06:33:53 1  8 37
+Rectangle Re ok 07 Mar 2018 15:10:54 5 4 44 98
+Triangle Tr alert 07 Jul 2018 07:59:47 3  13 18
+Triangle Tr ok 07 Feb 2018 14:17:21 1  31 91
+Rectangle Re ok 27 Dec 2018 15:51:13 4 1 21 43
+Triangle Tr ok 04 Nov 2018 03:00:54 1  4 27
+Diamond Di ok 30 Jul 2018 12:28:20 1  30 82
+Rectangle Re ok 24 Jun 2018 06:42:29 2 4 24 25
+Rectangle Re alert 17 Nov 2018 12:34:34 4 1 21 92
+Triangle Tr ok 07 Feb 2018 20:14:03 3  38 47
+Diamond Di ok 01 Jul 2018 13:58:18 1  23 53
+Diamond Di ok 17 Aug 2018 23:23:07 5  28 16
+Rectangle Re ok 18 Jul 2018 19:33:03 2 2 13 12
+Triangle Tr ok 26 Aug 2018 21:21:57 3  39 77
+Rectangle Re ok 28 May 2018 12:19:37 3 2 9 92
+Rectangle Re ok 01 Aug 2018 17:54:00 4 5 43 7
+Rectangle Re ok 29 May 2018 10:25:54 5 1 53 53
+Triangle Tr ok 22 Dec 2018 10:54:05 3  56 75
+Rectangle Re ok 28 Aug 2018 22:13:29 4 1 56 43
+Triangle Tr ok 24 Nov 2018 09:57:29 5  56 55
+Diamond Di ok 02 Jan 2018 22:42:12 1  26 64
+Triangle Tr ok 26 Oct 2018 01:27:03 5  7 26
+Triangle Tr ok 24 Aug 2018 16:34:57 5  54 19
+Diamond Di ok 25 Dec 2018 09:24:03 5  2 27
+Triangle Tr ok 25 Jun 2018 12:23:43 5  10 59
+Rectangle Re ok 02 Apr 2018 05:28:39 5 5 51 68
+Triangle Tr ok 29 Sep 2018 03:15:16 5  44 20
+Triangle Tr ok 12 Nov 2018 08:50:29 1  52 46
+Triangle Tr ok 18 Apr 2018 09:26:38 3  4 17
+Triangle Tr ok 26 Jan 2018 19:54:19 5  27 28
+Rectangle Re ok 27 Mar 2018 01:25:38 5 5 49 12
+Triangle Tr ok 16 Jun 2018 22:43:49 5  26 18
+Triangle Tr ok 17 May 2018 00:43:29 3  20 84
+Triangle Tr alert 29 Jun 2018 05:37:10 5  13 83
+Rectangle Re ok 23 Jan 2018 17:19:34 4 1 1 23
+Triangle Tr alert 07 May 2018 17:01:49 3  37 17
+Rectangle Re ok 19 Oct 2018 21:18:22 1 1 21 36
+Rectangle Re ok 03 Sep 2018 19:17:15 2 3 31 73
+Diamond Di alert 16 Aug 2018 05:32:49 3  33 34
+Rectangle Re ok 26 May 2018 08:31:05 2 2 4 86
+Triangle Tr alert 11 Dec 2018 08:54:39 5  38 72
+Triangle Tr alert 05 Sep 2018 15:28:46 5  31 86
+Diamond Di ok 30 Sep 2018 05:22:19 1  44 23
+Rectangle Re ok 01 Sep 2018 05:16:49 3 3 8 68
+Triangle Tr ok 03 Dec 2018 21:55:55 1  60 24
+Triangle Tr ok 14 Nov 2018 09:23:00 3  13 16
+Triangle Tr ok 13 Aug 2018 14:04:55 5  24 65
+Rectangle Re alert 11 Mar 2018 21:11:06 3 3 20 6
+Diamond Di ok 07 Feb 2018 06:46:03 1  60 1
+Diamond Di ok 20 Jun 2018 00:12:48 3  33 10
+Triangle Tr ok 04 Feb 2018 13:26:37 1  17 79
+Diamond Di ok 19 Jan 2018 12:25:32 3  47 39
+Triangle Tr ok 18 Jul 2018 05:31:21 3  4 8
+Rectangle Re ok 17 Sep 2018 11:57:51 5 5 11 45
+Diamond Di ok 24 Jun 2018 06:41:45 3  27 60
+Diamond Di ok 11 Jan 2018 13:17:30 1  25 14
+Triangle Tr alert 28 Nov 2018 13:22:51 5  26 7
+Triangle Tr ok 30 Aug 2018 00:13:59 1  9 44
+Triangle Tr alert 13 Aug 2018 14:09:59 1  46 27
+Rectangle Re ok 17 Nov 2018 14:33:20 2 2 36 65
+Rectangle Re ok 16 Aug 2018 09:29:04 3 4 48 54
+Rectangle Re ok 07 Jul 2018 19:48:00 5 5 14 83
+Rectangle Re ok 20 Dec 2018 04:50:36 3 2 39 1
+Rectangle Re ok 16 Apr 2018 20:45:06 5 2 26 23
+Triangle Tr ok 28 Jun 2018 23:15:02 3  58 26
+Rectangle Re alert 18 Jun 2018 15:55:02 4 2 8 56
+Triangle Tr ok 10 Dec 2018 03:28:02 1  42 69
+Diamond Di ok 14 Oct 2018 08:18:10 3  50 6
+Triangle Tr alert 05 Jan 2018 02:33:28 5  41 4
+Rectangle Re ok 11 Mar 2018 18:15:24 3 5 49 39
+Diamond Di ok 02 Oct 2018 00:20:29 3  4 27
+Diamond Di ok 09 Dec 2018 14:42:50 3  60 77
+Rectangle Re ok 06 Feb 2018 04:38:36 4 1 37 3
+Diamond Di ok 12 Jan 2018 04:21:57 3  51 49
+Diamond Di ok 09 Oct 2018 14:54:18 1  30 51
+Rectangle Re ok 27 Jul 2018 19:24:20 5 1 36 16
+Diamond Di alert 19 Jun 2018 11:44:15 3  35 68
+Diamond Di ok 15 May 2018 06:01:31 3  32 23
+Rectangle Re ok 23 Dec 2018 10:02:52 4 2 52 82
+Diamond Di ok 26 Mar 2018 11:10:52 1  8 49
+Triangle Tr ok 26 Mar 2018 03:01:58 1  30 62
+Triangle Tr ok 13 Apr 2018 13:10:08 1  51 35
+Diamond Di ok 03 Jun 2018 01:21:18 3  27 19
+Triangle Tr alert 24 Nov 2018 01:27:25 1  17 71
+Diamond Di ok 17 Jun 2018 11:58:44 1  31 96
+Diamond Di ok 19 Sep 2018 14:33:41 3  5 13
+Rectangle Re ok 02 Nov 2018 01:35:19 3 2 60 48
+Triangle Tr ok 09 Mar 2018 15:30:32 3  5 83
+Diamond Di ok 30 Mar 2018 03:05:02 5  44 75
+Rectangle Re ok 02 Sep 2018 13:24:07 2 1 11 83
+Rectangle Re alert 23 Jul 2018 19:37:23 4 1 20 96
+Rectangle Re ok 31 Mar 2018 17:06:53 1 1 39 86
+Diamond Di ok 27 Sep 2018 08:58:58 5  11 52
+Rectangle Re alert 06 Apr 2018 09:56:27 5 1 21 13
+Diamond Di ok 17 Jan 2018 05:21:44 5  5 78
+Triangle Tr ok 19 May 2018 20:40:22 1  41 22
+Diamond Di ok 29 Sep 2018 23:48:53 1  1 2
+Rectangle Re ok 29 Dec 2018 12:06:46 3 2 28 51
+Triangle Tr alert 09 Nov 2018 16:44:29 5  40 31
+Diamond Di ok 13 Apr 2018 06:14:20 5  52 18
+Triangle Tr ok 31 Jan 2018 15:43:07 3  25 56
+Triangle Tr ok 24 Oct 2018 15:27:41 5  39 78
+Triangle Tr ok 02 May 2018 10:00:32 3  5 60
+Rectangle Re ok 01 Feb 2018 02:34:38 4 1 13 55
+Rectangle Re ok 07 Dec 2018 06:03:53 4 2 28 3
+Diamond Di ok 20 Oct 2018 04:19:42 5  27 49
+Triangle Tr ok 28 Mar 2018 13:24:44 5  32 69
+Rectangle Re alert 31 Aug 2018 11:11:05 4 2 57 69
+Triangle Tr ok 16 Feb 2018 22:37:57 1  17 85
+Triangle Tr alert 02 Apr 2018 23:29:46 5  38 4
+Rectangle Re ok 09 Nov 2018 06:44:15 1 1 58 11
+Triangle Tr alert 12 Aug 2018 15:06:59 1  14 51
+Diamond Di ok 11 Aug 2018 06:08:10 1  43 90
+Rectangle Re ok 09 Jul 2018 03:01:19 3 3 36 19
+Rectangle Re ok 11 Aug 2018 15:43:33 1 5 20 48
+Rectangle Re alert 19 Oct 2018 00:51:46 4 2 5 51
+Triangle Tr ok 13 Mar 2018 22:03:21 3  42 99
+Rectangle Re ok 02 Apr 2018 09:22:48 1 3 2 94
+Triangle Tr ok 23 Oct 2018 21:14:15 3  51 23
+Triangle Tr ok 28 Jun 2018 17:48:05 3  39 57
+Triangle Tr ok 28 Jun 2018 00:19:39 5  46 96
+Triangle Tr alert 25 Feb 2018 13:44:13 1  7 55
+Rectangle Re ok 15 Dec 2018 08:49:49 5 4 60 39
+Diamond Di ok 10 Jul 2018 03:47:16 3  56 89
+Triangle Tr alert 19 Apr 2018 11:06:05 1  51 15
+Rectangle Re ok 20 Jun 2018 11:37:10 2 1 52 30
+Triangle Tr ok 01 May 2018 10:49:09 5  4 74
+Triangle Tr ok 21 Nov 2018 15:58:33 5  23 29
+Rectangle Re ok 19 Jun 2018 11:16:03 3 5 57 16
+Rectangle Re ok 11 Mar 2018 12:02:01 1 5 52 3
+Triangle Tr ok 25 Mar 2018 06:00:50 5  53 46
+Triangle Tr ok 20 Apr 2018 20:14:22 3  33 63
+Diamond Di alert 06 Jun 2018 12:30:52 3  45 63
+Rectangle Re ok 26 Sep 2018 09:09:03 3 5 24 81
+Triangle Tr ok 24 Jul 2018 03:50:31 5  28 88
+Triangle Tr ok 29 Aug 2018 01:55:51 5  54 23
+Rectangle Re ok 04 Jan 2018 00:54:21 4 5 56 3
+Triangle Tr ok 28 Jun 2018 18:46:39 3  30 4
+Rectangle Re ok 07 Oct 2018 11:16:16 5 5 49 93
+Rectangle Re ok 26 Sep 2018 11:46:36 4 4 10 23
+Triangle Tr ok 28 Oct 2018 00:59:28 5  18 42
+Triangle Tr ok 12 May 2018 18:43:38 5  44 69
+Diamond Di ok 14 Mar 2018 00:49:31 1  41 50
+Rectangle Re alert 15 Sep 2018 22:07:00 4 4 2 16
+Triangle Tr ok 03 Nov 2018 00:52:20 3  23 50
+Diamond Di alert 16 Oct 2018 07:25:09 5  14 33
+Triangle Tr ok 30 Nov 2018 13:44:12 3  12 71
+Diamond Di ok 19 May 2018 12:07:45 1  3 19
+Rectangle Re ok 15 Nov 2018 14:57:07 2 3 24 21
+Rectangle Re ok 16 Jun 2018 07:37:17 2 3 59 70
+Diamond Di ok 25 Mar 2018 00:07:49 3  45 46
+Rectangle Re ok 20 Apr 2018 01:29:42 2 5 56 72
+Triangle Tr ok 25 Mar 2018 10:50:37 5  15 16
+Rectangle Re ok 28 Jun 2018 12:35:31 4 2 28 56
+Rectangle Re alert 30 Jun 2018 17:22:19 4 3 22 99
+Diamond Di ok 26 Jan 2018 23:32:10 1  44 70
+Rectangle Re alert 20 Apr 2018 07:37:13 1 5 58 79
+Triangle Tr ok 25 Feb 2018 12:36:38 3  26 71
+Diamond Di alert 01 Oct 2018 20:20:09 1  53 71
+Triangle Tr ok 16 Dec 2018 23:18:41 3  13 88
+Rectangle Re ok 06 Jul 2018 00:21:32 2 5 29 33
+Rectangle Re ok 29 Sep 2018 16:27:08 2 3 33 58
+Rectangle Re ok 16 Nov 2018 04:53:46 4 3 37 89
+Triangle Tr ok 07 Jun 2018 19:47:05 1  4 71
+Triangle Tr alert 26 Sep 2018 14:28:52 5  8 78
+Diamond Di ok 14 Apr 2018 00:13:45 3  46 80
+Rectangle Re alert 03 May 2018 13:23:48 1 1 35 62
+Rectangle Re alert 28 May 2018 02:25:12 2 1 5 1
+Triangle Tr ok 13 Jun 2018 11:27:05 5  53 24
+Rectangle Re ok 07 May 2018 04:46:32 2 5 58 55
+Diamond Di ok 21 Sep 2018 23:03:05 5  57 20
+Triangle Tr ok 14 Apr 2018 00:05:27 1  34 82
+Diamond Di ok 27 Sep 2018 10:17:19 1  4 47
+Diamond Di alert 12 Oct 2018 13:51:10 1  57 38
+Triangle Tr alert 04 Apr 2018 10:17:57 5  14 94
+Diamond Di ok 06 Aug 2018 19:52:20 1  10 92
+Diamond Di ok 12 Jun 2018 06:23:22 1  15 99
+Triangle Tr ok 28 Oct 2018 02:09:32 1  23 11
+Diamond Di alert 21 Jun 2018 05:03:15 1  14 1
+Triangle Tr ok 20 Jun 2018 11:25:40 1  30 83
+Diamond Di ok 18 Jul 2018 22:16:53 5  57 15
+Triangle Tr ok 16 Oct 2018 14:39:12 5  11 78
+Diamond Di ok 29 Jan 2018 11:48:32 5  55 64
+Diamond Di ok 15 Apr 2018 14:42:10 3  43 77
+Triangle Tr ok 23 Apr 2018 07:44:00 5  10 13
+Rectangle Re alert 14 Nov 2018 12:10:46 5 5 40 95
+Rectangle Re ok 11 Aug 2018 15:25:14 5 1 35 88
+Rectangle Re ok 24 Jan 2018 10:52:15 1 5 19 78
+Rectangle Re ok 01 Oct 2018 15:39:20 4 5 50 14
+Triangle Tr ok 22 Aug 2018 15:24:39 3  38 81
+Rectangle Re ok 20 Apr 2018 01:19:33 5 4 22 72
+Triangle Tr ok 25 Mar 2018 12:37:25 1  2 17
+Diamond Di ok 10 Jul 2018 05:03:13 5  58 24
+Rectangle Re alert 25 Nov 2018 23:57:42 5 5 36 37
+Triangle Tr ok 12 Mar 2018 14:49:03 3  49 85
+Diamond Di ok 13 Jan 2018 21:17:39 1  43 30
+Diamond Di alert 04 May 2018 15:37:29 1  27 14
+Diamond Di ok 03 Nov 2018 08:40:22 3  35 96
+Diamond Di ok 26 Apr 2018 04:34:24 1  11 60
+Rectangle Re ok 29 Oct 2018 22:45:02 4 4 21 5
+Rectangle Re ok 12 May 2018 00:40:16 5 4 53 64
+Rectangle Re ok 18 Mar 2018 11:46:15 3 5 52 100
+Rectangle Re ok 05 Aug 2018 09:43:05 5 3 45 65
+Triangle Tr ok 12 Sep 2018 15:25:04 3  29 90
+Diamond Di ok 13 Oct 2018 18:28:10 5  53 57
+Triangle Tr ok 03 Sep 2018 03:11:42 3  42 36
+Diamond Di ok 25 Apr 2018 02:23:12 3  42 78
+Triangle Tr ok 30 Nov 2018 20:01:20 5  3 47
+Diamond Di ok 06 Oct 2018 19:40:34 3  39 75
+Diamond Di ok 09 Jul 2018 22:16:53 5  48 14
+Triangle Tr ok 21 Jan 2018 22:29:14 3  6 94
+Diamond Di ok 10 Feb 2018 02:53:54 1  18 16
+Diamond Di alert 05 Apr 2018 10:07:29 5  1 82
+Rectangle Re ok 28 Mar 2018 17:57:53 4 2 37 43
+Rectangle Re ok 03 May 2018 00:08:37 2 1 42 22
+Triangle Tr ok 10 Jan 2018 13:55:11 1  14 67
+Triangle Tr alert 02 Jun 2018 19:06:04 1  7 78
+Triangle Tr ok 29 Apr 2018 10:45:27 1  8 49
+Triangle Tr alert 27 May 2018 00:26:18 1  32 66
+Triangle Tr ok 13 Jan 2018 07:16:00 5  26 67
+Triangle Tr ok 09 Dec 2018 21:50:17 5  7 91
+Diamond Di ok 27 Aug 2018 11:21:22 5  33 41
+Rectangle Re ok 23 Apr 2018 06:54:37 5 5 54 87
+Triangle Tr alert 06 Jan 2018 11:14:53 5  21 85
+Triangle Tr ok 03 Jan 2018 11:28:17 5  24 91
+Diamond Di ok 08 Mar 2018 23:00:05 3  25 84
+Triangle Tr alert 31 Jul 2018 07:31:35 3  5 14
+Triangle Tr ok 23 Oct 2018 08:55:23 3  54 38
+Triangle Tr alert 17 Feb 2018 06:31:51 5  21 21
+Triangle Tr alert 28 Mar 2018 03:34:12 1  56 15
+Diamond Di ok 22 Jul 2018 10:28:06 3  33 66
+Triangle Tr ok 24 Dec 2018 17:15:23 5  51 10
+Triangle Tr ok 20 Oct 2018 23:34:59 3  41 65
+Triangle Tr ok 06 Sep 2018 22:15:15 3  19 92
+Rectangle Re ok 15 Apr 2018 09:07:33 1 4 13 99
